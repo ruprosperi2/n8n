@@ -49,10 +49,6 @@
     "webhook": "./packages/cli/bin/n8n webhook",
     "worker": "./packages/cli/bin/n8n worker"
   },
-  "engines": {
-    "node": ">=18.0.0 <20.0.0",
-    "pnpm": ">=10.2.1"
-  },
   "devDependencies": {
     "@biomejs/biome": "^1.9.0",
     "@n8n/eslint-config": "workspace:*",
